@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewToDoAppPAM_Zal</string>
+    <string name="checkIfHigher">Check if >= 5</string>
+    <string name="checkIfLower">Check if under 5 </string>
+    <string name="btnRandom">Display random number [0,10]</string>
+    <string name="btnToast">Show Toast</string>
+</resources>

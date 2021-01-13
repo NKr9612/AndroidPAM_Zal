@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewToDoAppPAM_Zal</string>
+    <string name="checkIfHigher">Sprawdź czy >= 5</string>
+    <string name="checkIfLower">Sprawdź, czy jest poniżej 5 </string>
+    <string name="btnRandom">Wyświetl randomową liczbę [0,10]</string>
+    <string name="btnToast">Pokaż Toast</string>
+</resources>

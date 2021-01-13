@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NýttaðgeraforritPAM_Zal</string>
+    <string name="checkIfHigher">Athugaðu hvort</string>
+    <string name="checkIfLower">Athugaðu hvort undir 5 </string>
+    <string name="btnRandom">Sýna slembitölu [0,10]</string>
+    <string name="btnToast">Sýnið ristað brauð</string>
+</resources>
