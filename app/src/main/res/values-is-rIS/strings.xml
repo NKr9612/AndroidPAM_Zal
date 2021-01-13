@@ -5,4 +5,12 @@
     <string name="checkIfLower">Athugaðu hvort undir 5 </string>
     <string name="btnRandom">Sýna slembitölu [0,10]</string>
     <string name="btnToast">Sýnið ristað brauð</string>
+    <string name ="btnApp">Um umsóknina</string>
+    <string name ="btnAuthor">Um höfundinn</string>
+    <string name ="btnSubject">Um efnið</string>
+    <string name="aboutApp">Einföld matsvinna hjá PAM</string>
+    <string name="descriptionApp">Forritið inniheldur sjö hnappa, fjórar aðgerðir, notar „strings.xml“, tvö aðskilin tungumál, hlustendur og ristað brauð.</string>
+    <string name="aboutAuthor">Höfundur: Norbert Krupa</string>
+    <string name="aboutSubject">Forritun farsímaforrita</string>
+    <string name="descriptionSubject">Um þetta efni einbeitum við okkur að forritun farsímaforrita með Android Studio með Java eða Kotlin</string>
 </resources>

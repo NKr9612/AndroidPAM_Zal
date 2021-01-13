@@ -49,7 +49,39 @@
         android:layout_height="wrap_content"
         android:text="@string/btnToast"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="685dp" />
+        tools:layout_editor_absoluteY="622dp" />
+
+    <Button
+        android:id="@+id/btnToast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnToast"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="622dp" />
+
+    <Button
+        android:id="@+id/aboutApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnApp"
+        tools:layout_editor_absoluteX="297dp"
+        tools:layout_editor_absoluteY="670dp" />
+
+    <Button
+        android:id="@+id/aboutAuthor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnAuthor"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="670dp" />
+
+    <Button
+        android:id="@+id/aboutSubject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnSubject"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="670dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

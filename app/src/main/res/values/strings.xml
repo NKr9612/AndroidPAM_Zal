@@ -4,4 +4,12 @@
     <string name="checkIfLower">Check if under 5 </string>
     <string name="btnRandom">Display random number [0,10]</string>
     <string name="btnToast">Show Toast</string>
+    <string name ="btnApp">AboutApp</string>
+    <string name ="btnAuthor">AboutAuthor</string>
+    <string name ="btnSubject">AboutSubject</string>
+    <string name="aboutApp">Simple assignments paper for PAM</string>
+    <string name="descriptionApp">App include seven buttons, four activities, using "strings.xml", 2 different languages, using listeners and toast</string>
+    <string name="aboutAuthor">Author: Norbert Krupa</string>
+    <string name="aboutSubject">Programming Android Apps</string>
+    <string name="descriptionSubject">In this subject we are focused on programming Android Apps using Android studio with Java or Kotlin</string>
 </resources>
